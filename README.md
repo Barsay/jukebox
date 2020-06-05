@@ -1,3 +1,7 @@
+Forked from original Jukebox, to be slightly modified.
+Original: https://github.com/openai/jukebox
+
+
 **Status:** Archive (code is provided as-is, no updates expected)
 
 # Jukebox
